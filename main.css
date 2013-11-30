@@ -1,0 +1,48 @@
+
+
+body {background-color: #F2EEEF;}
+
+div {
+	/*width: 1000px; height: 1000px;*/
+	width: 1440px;height: 800px;
+	margin: 0 auto 0 auto;
+	text-align: center;
+}
+
+#new { display: none;}
+
+#display, #instructions, #button, #new, #input{	font-family: 'Chewy'; }
+
+#display, #instructions  { margin-top: 50px; margin-left: 150px; font-size: 36px; }
+
+#instructions {
+	transform:rotate(-7deg);
+	-ms-transform:rotate(-7deg); /* IE 9 */
+	-webkit-transform:rotate(-7deg); /* Safari and Chrome */
+}
+
+#input {
+	margin-top: 80px; margin-left: 300px;
+	font-size: 24px;
+	transform:rotate(3deg);
+	-ms-transform:rotate(3deg); /* IE 9 */
+	-webkit-transform:rotate(3deg); /* Safari and Chrome */
+}
+
+#button, #new  {
+	margin-top: 10px; margin-left: 300px; font-size: 24px;
+	transform:rotate(-3deg);
+	-ms-transform:rotate(-3deg); /* IE 9 */
+	-webkit-transform:rotate(-3deg); /* Safari and Chrome */
+}
+
+img {
+	position: relative;
+    width: 1px;
+}
+
+#display {
+	transform:rotate(3deg);
+	-ms-transform:rotate(3deg); /* IE 9 */
+	-webkit-transform:rotate(3deg); /* Safari and Chrome */
+}
