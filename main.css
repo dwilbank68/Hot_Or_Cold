@@ -39,6 +39,7 @@ div {
 img {
 	position: relative;
     width: 1px;
+    top: -500px;
 }
 
 #display {
