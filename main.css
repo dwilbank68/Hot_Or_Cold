@@ -13,7 +13,7 @@ div {
 
 #display, #instructions, #button, #new, #input{	font-family: 'Chewy'; }
 
-#display, #instructions  { margin-top: 150px; margin-left: 150px; font-size: 36px; }
+#display, #instructions  { margin-top: 50px; margin-left: 150px; font-size: 36px; }
 
 #instructions {
 	transform:rotate(-7deg);
